@@ -1,0 +1,12 @@
+# Dependecies
+node_modules
+
+# Database
+database/*.sqlite3
+
+# Environments
+.env
+.env.test
+
+# Build
+build
